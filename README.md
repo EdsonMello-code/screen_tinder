@@ -1,6 +1,6 @@
 # Tinder
 
-<div style="display: flex; justify-content: center">
+<div align="center">
   <img src="assets/images/logo.svg" width="100px">
 </div>
 
@@ -8,6 +8,6 @@
 
 Flutterando's challenge which consists in creating a tinder screen.
 
-<div style="display: flex; justify-content: center">
+<div align="center">
   <img src="assets/images/screen.gif" style="margin-top: 20px">
 </div>
